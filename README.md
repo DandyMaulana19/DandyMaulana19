@@ -39,7 +39,7 @@
 <h3 align="center">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandyMaulana19&layout=compact&theme=gotham" alt=DandyMaulana19 />
 
-<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=DandyMaulana19&show_icons=true&locale=en&theme=gotham" alt="DandyMaulana19" /></p>
+<<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=DandyMaulana19&show_icons=true&locale=en&theme=gotham" alt="DandyMaulana19" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
