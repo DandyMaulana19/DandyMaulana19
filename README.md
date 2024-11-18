@@ -10,6 +10,8 @@
 <a href = "mailto:dandyainul19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <h3 align="center">Languages and Tools</h3>
 
+<div align="center">
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -30,20 +32,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
+</div>
+
 <!-- <h3 align="center">Statistics</h3> -->
 <!-- <div align="center"> -->
 <!-- <a href="https://github.com/DandyMaulana19"> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DandyMaulana19&theme=gotham" height="180em" /> -->
 <!-- </div> -->
 
-<p align="center">
+<div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?theme=highcontrast&user=DandyMaulana19&mode=weekly)](https://git.io/streak-stats)
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=DandyMaulana19&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
 <!--   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DandyMaulana19&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
    -->
   
-</p>
+</div>
 
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
