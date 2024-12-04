@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dandy Maulana Ainul Yaqin</h1>
-<h3 align="center">Call me Dandy</h3>
+<h1 align="center">Hi 👋, I'm Dandy</h1>
+<!-- <h3 align="center">Call me Dandy</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DandyMaulana19&label=Profile%20views&color=0e75b6&style=flat" alt="DandyMaulana19" /> </p>
 
 - 🔭 I’m currently studying at **Telkom University Surabaya**
